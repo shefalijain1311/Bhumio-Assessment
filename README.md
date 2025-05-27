@@ -18,14 +18,6 @@ This is a frontend assignment project developed in **React.js** with **Material 
 
 ---
 
-## 📷 Screenshots
-
-![App Screenshot](public/preview.png)
-
-> *Note: Replace the above image path with your actual screenshot if needed.*
-
----
-
 ## 🚀 Tech Stack
 
 - **Frontend**: React.js, Material UI
